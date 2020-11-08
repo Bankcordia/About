@@ -19,7 +19,8 @@ About Bankcordia
 ### Code Contributors
  *We are looking for moderate to intermediate Developers to participate in the development of Bankcordia.*
 
-> - CyberCDN - Bankcordia Founder. 
+> - [CyberCDN](https://github.com/CyberCDN) - Bankcordia Project Manager. 
+> - [MrMurphyOfficial](https://github.com/MrMurphyOfficial) - Bankcordia Project Manager/GFX Designer. 
 
 ### Changelog
 
