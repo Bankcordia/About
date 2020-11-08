@@ -1,5 +1,7 @@
-About Bankcordia - The only [Discord](https://discord.com/) Banking system to-date using Virtual & Real Currency. 
+About Bankcordia 
 =====
+##### *The only [Discord](https://discord.com/) Banking system to-date using Virtual & Real Currency.* 
+
 
 ### Table of Contents
 * [What is Bankcordia](#what-is-bankcordia)
