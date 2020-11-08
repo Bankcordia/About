@@ -1,6 +1,13 @@
-About Bankcordia 
-=====
-##### *The only [Discord](https://discord.com/) Banking system to-date using Virtual & Real Currency.* 
+<div align="center">
+
+<img src="https://cdn.discordapp.com/attachments/772087937818296341/775132375151673424/Bankcordia.png" width="600px">
+
+#### *The only [Discord](https://discord.com/) Bankcordia Virtual & Reality Currency Banking System.*
+
+* * *
+
+</div>
+
 
 
 ### Table of Contents
