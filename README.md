@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/772087937818296341/775132375151673424/Bankcordia.png" width="600px">
+<img src="assets/Bankcordia.png" width="600px">
 
 #### *The only [Discord](https://discord.com/) Bankcordia Virtual & Reality Currency Banking System.*
 
