@@ -34,6 +34,7 @@
 *08-11-2020 - Documentation/Information Released*
 > - Started development of the project.
 > - Updated repository with information.
+> - Coin logo and Banner designed by [MrMurphyOfficial](https://github.com/MrMurphyOfficial)
 
 ### *Development Notes*
 > - *Find more inspired developers to join the project.*
