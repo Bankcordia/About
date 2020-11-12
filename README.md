@@ -3,6 +3,8 @@
 <img src="assets/Bankcordia.png" width="600px">
 
 #### *The only [Discord](https://discord.com/) Bankcordia Virtual & Reality Currency Banking System.*
+#### *PROJECT ON HOLD*
+
 
 * * *
 
